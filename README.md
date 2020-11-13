@@ -10,6 +10,8 @@ Simple and elegant desktop application for opening and creating ppt/pptx files.
 
 ### Snapshots
 
-![Alt text](select_essay.png?raw=true "Snapshot 1")
+![Alt text](Snapshot%203.png?raw=true "Snapshot 1")
 
-![Alt text](writing_pad.png?raw=true "Snapshot 2")
+![Alt text](Snapshot%202.png?raw=true "Snapshot 2")
+
+![Alt text](Snapshot%201.png?raw=true "Snapshot 3")
